@@ -7,3 +7,6 @@ Stage 2:<br>
 SegResNet: https://drive.google.com/file/d/1H9qoq22ispgEprW5-wwJq08o6SzLhuPE/view?usp=sharing <br>
 SwinUnetr: https://drive.google.com/file/d/1BIrRqHr3Q_pxS8cvxz8U3-DUQSLjcFsw/view?usp=sharing <br>
 UNet: https://drive.google.com/file/d/1AYmplOLJAg4edgLHBam5DxEdW1bS5Wa2/view?usp=sharing <br>
+<br> <br>
+The paper can be accessed from the following link.
+https://drive.google.com/file/d/1EdAHjdLQNR1cHT8It2zHDSU-tbbF8-AD/view?usp=sharing
